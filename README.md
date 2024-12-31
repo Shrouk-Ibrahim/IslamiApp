@@ -1,16 +1,15 @@
-# islami_project
+# Islami App
 
-A new Flutter project.
+Islami App is a simple app designed with Flutter. It allows users to access the Quran and the Hadith with ease, utilizing local storage to ensure a seamless reading experience. The app is developed by a team as part of the Route Academy's team support initiative. 🚀
 
-## Getting Started
+## What It Does
 
-This project is a starting point for a Flutter application.
+- **Quran Fragment**: Access and read the Quran offline using local storage.
+- **Sebha Fragment**: Engage in Dhikr with the Sebha fragment, allowing users to keep track of their Tasbeeh.
+- **Hadith Fragment**: Delve into the wisdom of saved Ahadith.
 
-A few resources to get you started if this is your first Flutter project:
+## Key Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Activities, fragments, and RecyclerViews enhance user interaction.
+- Exciting upcoming version with API integration for radio fragments.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
